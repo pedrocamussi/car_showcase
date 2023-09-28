@@ -1,3 +1,6 @@
+This repository contains code from a mini course from youtube(https://youtu.be/pUNSHPyVryU?si=dNxNhAqKbt9dbOXz)
+
+---------------------------------------------------------------------------------------------------------------
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
